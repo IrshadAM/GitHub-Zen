@@ -1,0 +1,56 @@
+*{
+  font-family: 'Raleway', sans-serif;
+  margin: auto;
+}
+
+body{
+  background-color: #ddf1fc;
+}
+
+#header{
+  background-color: #333333;
+  width: 100%;
+  height: 50px;
+}
+
+#header h2{
+  text-align: center;
+  color: #fff;
+  padding-top: 10px;
+}
+
+#zen{
+  margin-top: 400px;
+  height: 70px;
+  width: 100%;
+}
+
+#zen-message{
+  color: #333;
+  font-size: 350%;
+  text-align: center;
+}
+
+#footer{
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 40px;
+  background-color: #333333;
+}
+
+#view-github{
+  margin-left: 860px;
+}
+
+#view-github img{
+  padding-top: 4px;
+}
+
+#view-github a{
+  color: #fff;
+  text-align: center;
+  vertical-align: middle;
+  text-decoration: none;
+  padding-bottom: 22px;
+}
